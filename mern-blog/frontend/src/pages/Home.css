@@ -1,0 +1,29 @@
+.hero {
+  background: linear-gradient(90deg, #38bdf8, #6366f1);
+  color: white;
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+
+.container {
+  padding: 40px 80px;
+}
+
+.post-card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}

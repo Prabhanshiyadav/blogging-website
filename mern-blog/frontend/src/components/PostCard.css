@@ -1,0 +1,22 @@
+.post-card {
+  background: white;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+}
+
+.post-card h3 {
+  margin-bottom: 10px;
+  font-size: 22px;
+}
+
+.post-card small {
+  color: gray;
+  font-size: 13px;
+}
